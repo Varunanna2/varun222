@@ -1,0 +1,10 @@
+class vas
+{
+ public static void main(String args[])
+{  
+    double d=10.0234562;
+    short a=4;
+    short c=(short)(a+d);
+System.out.println(c);
+}
+}

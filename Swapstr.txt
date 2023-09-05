@@ -1,0 +1,12 @@
+class Swapstr
+{
+     public static void main(String args[])
+     {
+           String a="varun",b="raju",c;
+            a=c;
+             c=b;
+             b=a;
+          System.out.println(a+"   "+b);
+      
+}
+}
